@@ -1,3 +1,5 @@
-#spring.datasource.url=jdbc:postgresql://localhost:5432/bdsecurityG7
-#spring.datasource.username=postgres
-#spring.datasource.password=2805
+{
+  "spring.datasource.url":"jdbc:postgresql://localhost:5432/bdsecurityG7",
+  "spring.datasource.username":"postgres",
+  "spring.datasource.password":"2805"
+}
